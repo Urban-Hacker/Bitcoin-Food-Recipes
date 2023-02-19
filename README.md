@@ -10,3 +10,7 @@ recipies website story
 3) Broad enough to include a lot of various dish from different cultures all over the world.
 4) No bullshit, only recipies: You will never get the endless wall of text that charaterize recipies website
 
+# Value for value
+
+Bitcoin values your time and energy. This is why, our collection of recipies will be written in simple markdown format, easily downloadable, sharable and that can be stored on your own server if needed. You will not get endless scrolling, advertisement banners and other tracking.
+
