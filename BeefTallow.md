@@ -7,7 +7,7 @@
 
 * 2kg of suet (I get mine directly from a small local slaughter house). Of course you can get as much as you want but keep in mind it takes some time to process it.
 * salt
-* A cast iron pot (works with normal pots but is far more challenging / harder to do.
+* A cast iron pot (works with normal pots but is far more challenging / harder to do correctly).
 
 # Instructions
 
@@ -29,3 +29,7 @@
 4) If its soft you might have still too much water in it.
 5) The leftovers that cannot be melted are called cracklings and are considered a delicacy.
 
+# To go further
+Usually you can preserve the tallow in glass jar in a dark place. If you have a big freezer you can also store it there. You will also see sediments (very small pieces of meat / unmelted fat) going at the bottom of the jar. If you want to do a double rendering you can wait for it to be solid, cut the bottom, melt it and filter it again.
+
+If you suspect anything bad (mold, dubious colors, etc) throw it away, it might be unsafe for consumption.
