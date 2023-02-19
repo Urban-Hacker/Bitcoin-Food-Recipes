@@ -1,8 +1,8 @@
-# Bitcoin Food Recipies
+# Bitcoin Food Recipes
 
-> A collection of delicious recipies for those who want to say no to fiat food
+> A collection of delicious recipes for those who want to say no to fiat food
 
-This is a collection of recipies based on what my grand mother prepared before the advent of industrial food. The recipies included here are based lossly on a few core principles:
+This is a collection of recipies based on what my grand mother prepared before the advent of industrial food. The recipes included here are based lossly on a few core principles:
 recipies website story
 
 1) Based on fresh food that can easily be prepared at home. If my grand mother had to use an industrial rafinery to prepare it, it will not be included here.
@@ -12,5 +12,5 @@ recipies website story
 
 # Value for value
 
-Bitcoin values your time and energy. This is why, our collection of recipies will be written in simple markdown format, easily downloadable, sharable and that can be stored on your own server if needed. You will not get endless scrolling, advertisement banners and other tracking.
+Bitcoin values your time and energy. This is why, our collection of recipes will be written in simple markdown format, easily downloadable, sharable and that can be stored on your own server if needed. You will not get endless scrolling, advertisement banners and other tracking.
 
