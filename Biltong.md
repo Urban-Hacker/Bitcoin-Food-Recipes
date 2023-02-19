@@ -40,4 +40,4 @@ I personally eat my biltong always fresh, so I will always eat it once ready. In
 
 If you suspect anything bad (mold, dubious colors, etc) throw it away, it might be unsafe for consumption.
 
-Since this is a Bitcoin cooking book, you could potentially use a small Bitcoin miner to regulate the temperature in the room and make sure it has a gentle air flow. Be aware most industrial ASIC are way too powerful for 1kg of meat.
+Since this is a Bitcoin cooking book, you could potentially use a small Bitcoin miner to regulate the temperature in the room and make sure it has a gentle air flow. Be aware most industrial ASIC are way too powerful for only 1kg of meat.
