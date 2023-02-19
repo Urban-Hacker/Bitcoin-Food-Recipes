@@ -33,3 +33,5 @@
 Usually you can preserve the tallow in glass jar in a dark place. If you have a big freezer you can also store it there. You will also see sediments (very small pieces of meat / unmelted fat) going at the bottom of the jar. If you want to do a double rendering you can wait for it to be solid, cut the bottom, melt it and filter it again.
 
 If you suspect anything bad (mold, dubious colors, etc) throw it away, it might be unsafe for consumption.
+
+Using beef tallow instead of throwing it away also contribute to reducing the overall amount of food waste.
