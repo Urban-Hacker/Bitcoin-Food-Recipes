@@ -1,6 +1,6 @@
 # Biltong (South African Cured Meat)
 
-> This recipe is extreamly easy to do especially if you want to try to do cured meat yourself. It is important to respect the general proportion based on how much beef you have, in doubt put a bit more.
+> This recipe is extreamly easy to do especially if you want to try to do cured meat yourself. It is important to respect the general proportion based on how much beef you have. In doubt put a bit more.
 
 # Ingredients (metric unit)
 
