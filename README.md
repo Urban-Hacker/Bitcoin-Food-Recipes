@@ -2,7 +2,7 @@
 
 > A collection of delicious recipes for those who want to say no to fiat food
 
-This is a collection of recipies based on what my grand mother prepared before the advent of industrial food. The recipes included here are based lossly on a few core principles:
+This is a collection of recipes based on what my grand mother prepared before the advent of industrial food. The recipes included here are based lossly on a few core principles:
 recipies website story
 
 1) Based on fresh food that can easily be prepared at home. If my grand mother had to use an industrial rafinery to prepare it, it will not be included here.
