@@ -5,7 +5,7 @@
 This is a collection of recipes based on what my grand mother prepared before the advent of industrial food. The recipes included here are based lossly on a few core principles:
 
 1) Based on fresh food that can easily be prepared at home. If my grand mother had to use an industrial rafinery to prepare it, it will not be included here.
-2) A low / reduced carbs diet. It does not outright ban them but is compatible for those who do not want or can’t go on a carnivor diet, especially if your friend or family are not on board.
+2) A low / reduced carbs diet. It does not outright ban them but is compatible for those who do not want or can’t go on a carnivor diet, especially if your friend or family are not on board. If you are interested to learn more where the inspiration came, feel free to check [perfecthealthdiet.com](https://perfecthealthdiet.com/).
 3) Broad enough to include a lot of various dish from different cultures all over the world.
 4) No bullshit, only recipes: You will never get the endless wall of story text that charaterize recipes website
 
