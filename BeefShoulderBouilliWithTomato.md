@@ -17,7 +17,6 @@
 
 # Instructions
 
-## Preparing the suet
 1) Put tallow in a cast iron pot, wait for it to be melted.
 2) Fry the meat on every side to make a crust. Between 2 to 3 min on each side.
 3) Cut the cabbage in 4 chunks. Put the chunks around the meat.
