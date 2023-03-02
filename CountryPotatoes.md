@@ -4,7 +4,7 @@
 
 # Ingredients (for 2 people)
 * 4 big / medium potatoes
-* [Beef Tallow](BeefTallow.md)
+* [Beef Tallow](Core/BeefTallow.md)
 * Paprika
 * One garlic clove
 * Dried Garlic
