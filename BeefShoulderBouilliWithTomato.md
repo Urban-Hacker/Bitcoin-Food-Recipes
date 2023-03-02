@@ -1,6 +1,6 @@
 # Beef Shoulder Slowly Cooked in Cream with Tomatoes (Bouilli)
 
-> Bouilli or Pot-au-feu is a way to prepare meat in France by slowly boiling it. It is a great way to use cut that has silver skin since the boiling process will make it soft.
+> Bouilli or Pot-au-feu is a way to prepare meat in France by slowly boiling it. It is a great way to use cuts that has silver skin since the boiling process will make it soft.
 
 # Ingredients
 
@@ -28,3 +28,4 @@
 
 # To go further
 You can serve this dish in two parts. First a light broth / soup with the juice / cream from the bouilli, then the meat and cabbage.
+This can be done with pretty much any meat that has silverskin (conjuctive tissues). You can even use pork, oxtail, sausages, veal, etc.
