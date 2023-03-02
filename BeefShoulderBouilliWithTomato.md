@@ -5,7 +5,7 @@
 # Ingredients
 
 * 1kg Beef Shoulder or Brisket
-* Beef Tallow
+* [Beef Tallow](Core/BeefTallow.md)
 * 250ml Bone broth (must be prepared separatly)
 * 250ml Cream
 * One cabbage
