@@ -22,8 +22,9 @@
 3) Cut the cabbage in 4 chunks. Put the chunks around the meat.
 4) Add the bone broth, the tomato extract, the garlic, and the finely chopped spring onions in the pot
 5) let it slowly boild (medium to low heat) for 30 min.
-6) Add the cream, dried tomato and olive oil, reduce the heat to low and let it boil slowly for 2h.
+6) Add the dried tomato and olive oil, reduce the heat to low and let it boil slowly for 2h.
 7) Make sure to stire gently the pot from time to time to ensure proper boiling on every parts.
+8) 5 min before serving add the cream
 
 # To go further
 You can serve this dish in two parts. First a light broth / soup with the juice / cream from the bouilli, then the meat and cabbage.
