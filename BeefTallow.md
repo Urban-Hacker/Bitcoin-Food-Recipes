@@ -19,7 +19,7 @@
 ## Rendering the tallow
 1) You should not fry, burn the suet but slowly melt it. DO NOT PUT WATER it makes everything more complicated.
 2) Once the process of melting started you can add progressively more and more shredded suet.
-4) Keep the process of rendering into tallow.
+4) Keep the process of rendering into tallow, add a bit of salt.
 5) Stir the pot from time to time. It might take up to 6 hours to render everything.
 
 ## Filtering
