@@ -1,5 +1,7 @@
 # Biltong (South African Cured Meat)
 
+![Biltong Preview](BiltongPreview.png)
+
 > An incredibly simple recipe for those looking to try their hand at making cured meat. It's essential to maintain the correct proportions based on the amount of beef used. If in doubt, use a little extra.
 
 ## Ingredients (metric unit)
