@@ -1,16 +1,15 @@
-# Bitcoin Food Recipes
+# Wholesome Home-Cooked Recipes
 
-> A collection of delicious recipes for those who want to say no to fiat food
+> A curated selection of delightful recipes inspired by traditional home cooking
 
-This is a collection of recipes based on what my grand mother prepared before the advent of industrial food. The recipes included here are based lossly on a few core principles:
+Welcome to our collection of timeless recipes, inspired by the dishes our grandmother prepared before the era of industrialized food. We have carefully chosen each recipe to adhere to a few core principles:
 
-1) Based on fresh food that can easily be prepared at home. If my grand mother had to use an industrial rafinery to prepare it, it will not be included here.
-2) A low / reduced carbs diet. It does not outright ban them but is compatible for those who do not want or can’t go on a carnivor diet, especially if your friend or family are not on board.
-3) If you are interested to learn more where the inspiration came, feel free to check [perfecthealthdiet.com](https://perfecthealthdiet.com/).
-4) Broad enough to include a lot of various dish from different cultures all over the world.
-5) No bullshit, only recipes: You will never get the endless wall of story text that charaterize recipes website
+1) **Home-friendly ingredients**: We focus on fresh food that can be easily prepared at home. If our grandmother couldn't prepare it without industrial equipment, you won't find it here.
+2) **Low-carb friendly**: While not strictly a low-carb diet, our recipes cater to those who wish to reduce their carbohydrate intake without going full carnivore, making them suitable even for mixed-diet households.
+3) **Inspiration**: To learn more about the philosophy behind our recipe selection, visit [perfecthealthdiet.com](https://perfecthealthdiet.com/).
+4) **Global variety**: Our recipes encompass a diverse range of dishes from different cultures, ensuring there's something for everyone.
+5) **No-nonsense approach**: We promise only recipes, no lengthy stories or endless scrolling. Just straightforward, delicious dishes.
 
-# Value for value
+# Timeless Recipes, Modern Values
 
-Bitcoin values your time and energy. This is why, our collection of recipes will be written in simple markdown format, easily downloadable, sharable and that can be stored on your own server if needed. You will not get endless scrolling, advertisement banners and other stupid tracking.
-
+In the spirit of Bitcoin, we value your time and energy. That's why our collection of recipes is presented in a simple markdown format, making them easily downloadable, shareable, and compatible with your own server if desired. Enjoy our ad-free, tracking-free, and clutter-free recipe website.
