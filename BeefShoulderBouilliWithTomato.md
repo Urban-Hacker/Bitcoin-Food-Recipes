@@ -25,12 +25,12 @@
 3. Season with salt and pepper.
 
 ### Making the bouilli
-4. Cut the cabbage into 4 chunks and place them around the meat.
-5. Add the bone broth, tomato extract, garlic, and finely chopped spring onions to the pot.
-6. Let it simmer slowly over medium-low heat for 30 minutes.
-7. Add the dried tomatoes and olive oil, reduce the heat to low, and let it simmer gently for 2 hours.
-8. Stir the pot gently from time to time to ensure even cooking.
-9. Five minutes before serving, stir in the cream.
+1. Cut the cabbage into 4 chunks and place them around the meat.
+2. Add the bone broth, tomato extract, garlic, and finely chopped spring onions to the pot.
+3. Let it simmer slowly over medium-low heat for 30 minutes.
+4. Add the dried tomatoes and olive oil, reduce the heat to low, and let it simmer gently for 2 hours.
+5. Stir the pot gently from time to time to ensure even cooking.
+6. Five minutes before serving, stir in the cream.
 
 ## Additional Tips
 This dish can be served in two parts: first, a light broth or soup made from the bouilli juices and cream, followed by the meat and cabbage.
