@@ -1,5 +1,7 @@
 # Beef Tallow (Cooking Fat from Beef)
 
+![Biltong Preview](BeefTallowPreview.png)
+
 > Beef tallow is extracted from suet, a type of fat found around the kidneys in cows. Traditionally this was used as frying oil up until it was replaced by highly processed seed oils.
 > My grand mother used to prepare it once a year from a cow and one or two pigs for the lard. Beef tallow can be used as cooking oil / fat.
 

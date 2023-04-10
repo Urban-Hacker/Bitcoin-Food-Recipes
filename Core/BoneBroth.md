@@ -1,5 +1,7 @@
 # Bone Broth
 
+![Biltong Preview](BoneBrothPreview.png)
+
 > Bone broth is a nutritious liquid made by simmering bones and vegetables for an extended period of time. Rich in vitamins, minerals, and collagen, it can be used as a base for soups, stews, and sauces or simply enjoyed as a warm, comforting beverage.
 
 # Ingredients
