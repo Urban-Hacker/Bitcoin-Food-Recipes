@@ -41,5 +41,6 @@ For boiling:
 3) Once cooled, transfer the broth to an airtight container and store it in the refrigerator for up to a week or freeze it for up to six months.
 
 # To go further
-* For a richer flavor, roast the bones and vegetables for a longer period at a higher temperature, around 180°C.
-* Adding a splash of vinegar to the boiling water can help extract more nutrients from the bones.
+For a richer flavor, roast the bones and vegetables for a longer period at a higher temperature, around 180°C.
+
+Adding a splash of vinegar to the boiling water can help extract more nutrients from the bones.
