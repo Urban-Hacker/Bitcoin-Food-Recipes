@@ -32,7 +32,7 @@
 5. Stir the pot gently from time to time to ensure even cooking.
 6. Five minutes before serving, stir in the cream.
 
-## Additional Tips
+## To go further
 This dish can be served in two parts: first, a light broth or soup made from the bouilli juices and cream, followed by the meat and cabbage.
 
 You can use a variety of meats with silver skin or connective tissue for this recipe, including pork, oxtail, sausages, or veal.
